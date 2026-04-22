@@ -25,7 +25,7 @@ Constraints:
 	There are no two adjacent flowers in flowerbed.
 	0 <= n <= flowerbed.length
 */
-package algorithms
+package leetcode
 
 func CanPlaceFlowers(flowerbed []int, n int) bool {
 	return false

@@ -1,4 +1,4 @@
-package algorithms
+package sorts
 
 func Heapsort(arr []int) {
 }

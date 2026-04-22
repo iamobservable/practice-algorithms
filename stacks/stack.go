@@ -1,4 +1,4 @@
-package algorithms
+package stacks
 
 type Stack struct{}
 

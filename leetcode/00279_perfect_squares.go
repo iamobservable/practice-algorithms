@@ -24,7 +24,7 @@ Constraints:
 
 	1 <= n <= 104
 */
-package algorithms
+package leetcode
 
 func PerfectSquares(input int) int {
 	return -1

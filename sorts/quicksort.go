@@ -1,4 +1,4 @@
-package algorithms
+package sorts
 
 func Quicksort(arr []int) []int {
 	return arr

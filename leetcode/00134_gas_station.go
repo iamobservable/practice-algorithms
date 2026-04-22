@@ -47,7 +47,7 @@ Constraints:
 	1 <= n <= 105
 	0 <= gas[i], cost[i] <= 104
 */
-package algorithms
+package leetcode
 
 func CanCompleteCircuit(gas, cost []int) int {
 	return -1

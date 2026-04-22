@@ -33,7 +33,7 @@ Constraints:
 	1 <= n <= 2 * 104
 	0 <= ratings[i] <= 2 * 104
 */
-package algorithms
+package leetcode
 
 func Candy(ratings []int) int {
 	return -1

@@ -1,4 +1,4 @@
-package algorithms
+package strings
 
 func RecursiveReverse(input string) string {
 	return input

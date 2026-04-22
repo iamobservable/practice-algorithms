@@ -27,7 +27,7 @@ Constraints:
 
 	-2^31 <= x <= 2^31 - 1
 */
-package algorithms
+package leetcode
 
 func ReverseInteger(x int) int {
 	return -1

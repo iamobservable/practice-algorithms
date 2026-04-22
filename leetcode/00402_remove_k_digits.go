@@ -31,7 +31,7 @@ Constraints:
 	num consists of only digits.
 	num does not have any leading zeros except for the zero itself.
 */
-package algorithms
+package leetcode
 
 func RemoveKDigits(num string, k int) string {
 	return ""

@@ -28,7 +28,7 @@ Constraints:
 	1 <= n <= 20
 	-1000 <= matrix[i][j] <= 1000
 */
-package algorithms
+package leetcode
 
 func RotateImage(matrix [][]int) {
 }
