@@ -29,14 +29,14 @@ Run leetcode tests for for sorts algorithm.
 
 | Practice                                                                                                       | Test Command             |
 | :---                                                                                                           |                     ---: |
-| [Reverse Integer](https://github.com/iamobservable/practice-algorithms/blob/main/lc/00007_reverse_integer.go)       | make test-leetcode-00007 |
-| [Rotate Image](https://github.com/iamobservable/practice-algorithms/blob/main/lc/00048_rotate_image.go)             | make test-leetcode-00048 |
-| [Gas Station](https://github.com/iamobservable/practice-algorithms/blob/main/lc/00134_gas_station.go)               | make test-leetcode-00134 |
-| [Candy](https://github.com/iamobservable/practice-algorithms/blob/main/lc/00135_candy.go)                           | make test-leetcode-00135 |
-| [Perfect Squares](https://github.com/iamobservable/practice-algorithms/blob/main/lc/00279_perfect_squares.go)       | make test-leetcode-00279 |
-| [Wiggle Subsequence](https://github.com/iamobservable/practice-algorithms/blob/main/lc/00376_wiggle_subsequence.go) | make test-leetcode-00376 |
-| [Remove K Digits](https://github.com/iamobservable/practice-algorithms/blob/main/lc/00402_remove_k_digits.go)       | make test-leetcode-00402 |
-| [Can Place Flowers](https://github.com/iamobservable/practice-algorithms/blob/main/lc/00605_can_place_flowers.go)   | make test-leetcode-00605 |
+| [Reverse Integer](https://github.com/iamobservable/practice-algorithms/blob/main/leetcode/00007_reverse_integer.go)       | make test-leetcode-00007 |
+| [Rotate Image](https://github.com/iamobservable/practice-algorithms/blob/main/leetcode/00048_rotate_image.go)             | make test-leetcode-00048 |
+| [Gas Station](https://github.com/iamobservable/practice-algorithms/blob/main/leetcode/00134_gas_station.go)               | make test-leetcode-00134 |
+| [Candy](https://github.com/iamobservable/practice-algorithms/blob/main/leetcode/00135_candy.go)                           | make test-leetcode-00135 |
+| [Perfect Squares](https://github.com/iamobservable/practice-algorithms/blob/main/leetcode/00279_perfect_squares.go)       | make test-leetcode-00279 |
+| [Wiggle Subsequence](https://github.com/iamobservable/practice-algorithms/blob/main/leetcode/00376_wiggle_subsequence.go) | make test-leetcode-00376 |
+| [Remove K Digits](https://github.com/iamobservable/practice-algorithms/blob/main/leetcode/00402_remove_k_digits.go)       | make test-leetcode-00402 |
+| [Can Place Flowers](https://github.com/iamobservable/practice-algorithms/blob/main/leetcode/00605_can_place_flowers.go)   | make test-leetcode-00605 |
 
 
 ## Reverse
